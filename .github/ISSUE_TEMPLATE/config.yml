@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/ac3e-cl/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately, not through public issues.
+  - name: AC3E contact
+    url: https://www.ac3e.cl
+    about: Institutional, collaboration, and licensing inquiries.

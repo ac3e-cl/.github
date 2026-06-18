@@ -1,0 +1,70 @@
+AC3E Proprietary, Non-Commercial License
+Version 1.0
+
+Copyright (c) 2026 Advanced Center for Electrical and Electronic Engineering
+(Centro Avanzado de Ingeniería Eléctrica y Electrónica, "AC3E"),
+Universidad Técnica Federico Santa María (UTFSM), Valparaíso, Chile.
+
+All rights reserved.
+
+1. Definitions
+   "Software" means the source code, object code, documentation, assets,
+   and any accompanying materials distributed with this repository.
+   "You" means the individual or entity exercising the permissions granted
+   by this License.
+   "Non-Commercial Purpose" means use for academic research, teaching,
+   personal study, or evaluation that is not primarily intended for or
+   directed toward commercial advantage or monetary compensation.
+
+2. Grant of Limited Permission
+   Subject to the terms of this License, AC3E grants You a worldwide,
+   royalty-free, non-exclusive, non-transferable, revocable license to
+   view, run, and use the Software solely for Non-Commercial Purposes.
+
+3. Restrictions
+   Except as expressly permitted in Section 2, You may NOT, without prior
+   written permission from AC3E:
+     (a) use the Software, in whole or in part, for any commercial purpose;
+     (b) distribute, publish, sublicense, sell, rent, lease, or otherwise
+         make the Software available to third parties;
+     (c) modify, adapt, translate, or create derivative works of the
+         Software;
+     (d) incorporate the Software into any product or service, whether
+         commercial or not;
+     (e) remove or alter any copyright, trademark, or attribution notices.
+
+4. Reservation of Rights
+   All rights not expressly granted herein are reserved by AC3E. No rights
+   are granted by implication, estoppel, or otherwise.
+
+5. Trademarks
+   This License does not grant permission to use the trade names,
+   trademarks, service marks, logos, or product names of AC3E or UTFSM,
+   except as required for reasonable and customary attribution.
+
+6. Requests for Additional Permissions
+   Permissions beyond the scope of this License (including any commercial
+   use) may be requested in writing at contacto@ac3e.cl.
+
+7. Termination
+   Any breach of this License automatically and immediately terminates the
+   permissions granted to You. Upon termination, You must cease all use of
+   the Software and destroy all copies in Your possession or control.
+
+8. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
+   NON-INFRINGEMENT.
+
+9. Limitation of Liability
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+   AC3E OR UTFSM BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT
+   OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+10. Governing Law
+    This License shall be governed by and construed in accordance with the
+    laws of the Republic of Chile, without regard to its conflict of law
+    provisions.
