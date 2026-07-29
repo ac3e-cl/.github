@@ -1,0 +1,58 @@
+name: "Epic — Actividad del contrato"
+description: "Actividad principal del contrato (ACT X.X). Se asocia a un Milestone y al tablero del proyecto."
+labels: ["epic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > Completa los campos antes de asignar esta epic a un Milestone y al tablero del proyecto.
+        > El título debe seguir el formato: **`ACT{N}.{M}: Nombre de la actividad`**
+
+  - type: textarea
+    id: objetivo
+    attributes:
+      label: Objetivo
+      description: Qué resuelve esta actividad en el contexto del contrato.
+    validations:
+      required: true
+
+  - type: textarea
+    id: entregable
+    attributes:
+      label: Entregable
+      description: Producto concreto que genera esta actividad (modelo, dataset, informe, API, script, etc.)
+    validations:
+      required: true
+
+  - type: textarea
+    id: criterios
+    attributes:
+      label: Criterios de aceptación
+      description: Qué debe ser verdad para cerrar esta epic.
+      value: |
+        - [ ]
+        - [ ]
+        - [ ]
+    validations:
+      required: false
+
+  - type: textarea
+    id: subtareas
+    attributes:
+      label: Sub-tareas
+      value: |
+        - [ ]
+        - [ ]
+        - [ ]
+        - [ ]
+        - [ ]
+    validations:
+      required: false
+
+  - type: textarea
+    id: resultado
+    attributes:
+      label: "Resultado *(completar al cerrar)*"
+      description: Qué se logró concretamente. Dejar vacío al abrir el issue.
+    validations:
+      required: false

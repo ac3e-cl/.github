@@ -1,0 +1,57 @@
+name: "Hito del contrato"
+description: "Fase o hito principal del proyecto. Complementa el GitHub Milestone del mismo nombre."
+labels: ["hito"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > Asociar este issue al **GitHub Milestone** correspondiente (mismo nombre y fecha de cierre).
+        > El título debe seguir el formato: **`Milestone #N: Nombre del hito`**
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción
+      description: Qué comprende este hito en el marco del contrato.
+    validations:
+      required: true
+
+  - type: input
+    id: fecha-inicio
+    attributes:
+      label: Fecha inicio
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
+
+  - type: input
+    id: fecha-termino
+    attributes:
+      label: Fecha término
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
+
+  - type: textarea
+    id: entregables
+    attributes:
+      label: Entregables del hito
+      description: Productos o documentos que se entregan al cierre de este hito.
+      value: |
+        -
+        -
+        -
+    validations:
+      required: true
+
+  - type: textarea
+    id: actividades
+    attributes:
+      label: Actividades incluidas (epics)
+      description: Issues de tipo Epic que componen este hito. Usar #número de issue.
+      value: |
+        - #
+        - #
+        - #
+    validations:
+      required: false
